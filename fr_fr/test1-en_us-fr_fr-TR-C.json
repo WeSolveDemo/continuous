@@ -3,5 +3,7 @@
   "continue_prompt": "Veuillez cliquer sur le bouton pour continuer.",
   "save_confirmation": "Vos modifications ont été enregistrées avec succès.",
   "network_error": "Nous n’avons pas pu joindre le serveur. Veuillez vérifier votre connexion et réessayer.",
-  "logout_confirmation": "Vous avez été déconnecté de votre compte."
+  "logout_confirmation": "Vous avez été déconnecté de votre compte.",
+  "session_expired": "Votre session est expirée. Veuillez vous reconnecter pour continuer à travailler.",
+  "unsaved_changes": "Vous avez des modifications non enregistrées. Quitter cette page quand même ?"
 }
