@@ -3,5 +3,7 @@
   "continue_prompt": "Please click the button to continue.",
   "save_confirmation": "Your changes have been saved successfully.",
   "network_error": "We could not reach the server. Please check your connection and try again.",
-  "logout_confirmation": "You have been signed out of your account."
+  "logout_confirmation": "You have been signed out of your account.",
+  "session_expired": "Your session has expired. Please sign in again to continue working.",
+  "unsaved_changes": "You have unsaved changes. Leave this page anyway?"
 }
